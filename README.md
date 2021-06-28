@@ -2,17 +2,15 @@
 
 # Hi, I am Amit  👋
 
-<!--
-**amitbiswas1992/amitbiswas1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A classical Software Engineer, mainly interested in mobile development(iOS/Android). I contribute to the organization, solve real-life problems every day, and transform creative ideas to code and bring them to life. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+- 🔭 I devloped and contributed 20+ applications. 
+- 🌱 Passionate competitive programmner 
+- 👯 I’m looking to collaborate on startup project
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about your next app/ website development needs 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amitbiswas-me/) | [Personal Website](https://amitbiswas.net) | [Twitter](https://twitter.com/amitsstory) 
+- ⚡ [For professional needs](mailto:contact@amitbiswas.net) 
+
