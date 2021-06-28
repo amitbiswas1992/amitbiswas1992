@@ -1,4 +1,4 @@
-![Amit's Official Github] (https://github.com/amitbiswas1992/amitbiswas1992/main/github_1.png)
+![Amit's Official Github](https://github.com/amitbiswas1992/main/github_1.png)
 
 # Hi, I am Amit  👋
 
