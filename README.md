@@ -1,4 +1,4 @@
-![](https://github.com/amitbiswas1992/amitbiswas1992/blob/main/amit.png)
+![](https://github.com/amitbiswas1992/amitbiswas1992/blob/main/cover-2.png)
 
 # Hi, I am Amit  👋
 
