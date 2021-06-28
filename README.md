@@ -1,4 +1,6 @@
-### Hi there 👋
+![Amit's Official Github] (https://raw.githubusercontent.com/amitbiswas1992/amitbiswas1992/main/github_1.png)
+
+# Hi, I am Amit  👋
 
 <!--
 **amitbiswas1992/amitbiswas1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
