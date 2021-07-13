@@ -6,7 +6,7 @@ A classical Software Engineer, mainly interested in mobile development(iOS/Andro
 
 
 - 🔭  I devloped and contributed 20+ applications. 
-- 🌱  Passionate competitive programmner 
+- 🌱  Passionate competitive programmer 
 - 📲  I’m looking to collaborate on startup project
 - 💬  Ask me about your next app/ website development needs 
 - 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/amitbiswas-me/) | [Personal Website](https://amitbiswas.net) | [Twitter](https://twitter.com/amitsstory) 
