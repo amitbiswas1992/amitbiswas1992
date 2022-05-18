@@ -20,7 +20,7 @@ A classical Software Engineer, mainly interested in mobile development(iOS/Andro
 </br>
 
  <div>
-  <a href="https://github.com/eagrundy">
+  <a href="https://github.com/amitbiswas1992">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagrundy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
@@ -52,6 +52,6 @@ A classical Software Engineer, mainly interested in mobile development(iOS/Andro
  </br>
 </br>
  
-  ![Snake animation](https://github.com/amitbiswas1992/amitbiswas1992/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/amitbiswas1992/amitbiswas1992/blob/output/github-contribution-grid-snake.gif)
  
 </div>
