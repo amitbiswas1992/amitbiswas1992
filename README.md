@@ -26,7 +26,7 @@ A classical Software Engineer, mainly interested in mobile development(iOS/Andro
 
 </br>
 
- ## Skills
+**Skills**
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Erica-Ruby" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
@@ -46,7 +46,7 @@ A classical Software Engineer, mainly interested in mobile development(iOS/Andro
   
 </br>
 
-## Contact 
+**Contact** 
 <div> 
   <a href="https://www.linkedin.com/in/amitbiswas-me/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/amitsstory" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -55,7 +55,7 @@ A classical Software Engineer, mainly interested in mobile development(iOS/Andro
  </br>
 </br>
  
- ** Hey.. Python dont eat my all contributions! **
+ **Hey.. Python 🐍 dont eat my all contributions!**
   ![Snake animation](https://github.com/amitbiswas1992/amitbiswas1992/blob/output/github-contribution-grid-snake.svg)
  
 </div>
