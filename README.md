@@ -14,6 +14,8 @@ A classical Software Engineer, mainly interested in mobile development(iOS/Andro
 - 👨🏻‍💻 To learn more about me [Watch My Story](https://www.youtube.com/watch?v=QOBo4alqs-w)
 - 👉 Personal interest: 🎤 Music  🚊 Traveling  📸 Photography 
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 - 💻 Explore my recent work 👇  
 
 
