@@ -55,7 +55,7 @@ A classical Software Engineer, mainly interested in mobile development(iOS/Andro
  </br>
 </br>
  
- **Hey.. Python 🐍 dont eat my all contributions!**
+ **Hey... Python 🐍 don't eat my all contributions!**
   ![Snake animation](https://github.com/amitbiswas1992/amitbiswas1992/blob/output/github-contribution-grid-snake.svg)
  
 </div>
