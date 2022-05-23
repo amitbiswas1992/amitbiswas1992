@@ -8,7 +8,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](	https://medium.com/@amitsstory)
 
 
-A classical Software Engineer, mainly interested in mobile development(iOS/Android). With the focus on: contributing to organizations , solving real-life problems  daily, and transforming creative ideas in to code and bringing them to life. 
+A classical Software Engineer, mainly interested in mobile engineering(iOS/Android). I love programming, music, speaking , mentoring, traveling and photography. I love transforming creative ideas into code and bringing them to life. I feel fantastic when I see my contributions make things that make a difference and change the World.  
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
