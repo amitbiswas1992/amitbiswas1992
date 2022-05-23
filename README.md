@@ -1,9 +1,19 @@
 ![](https://github.com/amitbiswas1992/amitbiswas1992/blob/main/amit-2.png)
 
-# Hi, I am Amit  👋
+### Hi there, I'm <a href="https://abiswas.me" target="_blank">Amit Biswas</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amitbiswas-me/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://abiswas.me)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/amitsstory)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/amitsstory/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](	https://medium.com/@amitsstory)
+
 
 A classical Software Engineer, mainly interested in mobile development(iOS/Android). With the focus on: contributing to organizations , solving real-life problems  daily, and transforming creative ideas in to code and bringing them to life. 
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+**A little bit more about me:**
 
 - 🔭  I devloped and contributed 20+ applications. 
 - 🌱  Passionate competitive programmer 
@@ -13,11 +23,7 @@ A classical Software Engineer, mainly interested in mobile development(iOS/Andro
 - ⚡  For professional needs: [Email me](mailto:contact@amitbiswas.net) 
 - 👨🏻‍💻 To learn more about me [Watch My Story](https://www.youtube.com/watch?v=QOBo4alqs-w)
 - 👉 Personal interest: 🎤 Music  🚊 Traveling  📸 Photography 
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-
 - 💻 Explore my recent work 👇  
-
 
 </br>
 
@@ -36,7 +42,7 @@ A classical Software Engineer, mainly interested in mobile development(iOS/Andro
   <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+ 
 </div>
   
 </br>
