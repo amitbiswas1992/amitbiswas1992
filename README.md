@@ -1,4 +1,3 @@
-![](https://github.com/amitbiswas1992/amitbiswas1992/blob/main/amit-2.png)
 
 ### Hi there, I'm <a href="https://abiswas.me" target="_blank">Amit Biswas</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -56,6 +55,7 @@ A classical Software Engineer, mainly interested in mobile development(iOS/Andro
  </br>
 </br>
  
+ ** Hey.. Python dont eat my all contributions! **
   ![Snake animation](https://github.com/amitbiswas1992/amitbiswas1992/blob/output/github-contribution-grid-snake.svg)
  
 </div>
