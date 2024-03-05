@@ -8,8 +8,9 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](    https://medium.com/@amitsstory)
 
 
-Every morning begins with a simple ritual—a mug of black coffee, a reminder of the new possibilities each day holds. From the vibrant streets of Rajshahi to the peaceful shores of New York, my journey is a tale of dreams pursued and challenges overcome. My name is Amit Biswas, a tech enthusiast whose life is woven with codes and creativity. With over eight years of shaping the future at companies like Google and Amazon, I've lived the reality that passion, paired with hard work, can turn visions into achievements.
+Every morning begins with a simple ritual—a mug of black coffee, a reminder of the new possibilities each day holds. From the vibrant streets of Rajshahi to the peaceful shores of New York, my journey is a tale of dreams pursued and challenges overcome. My name is Amit Biswas, a tech enthusiast whose life is woven with codes and creativity. 
 
+My professional journey has been marked by significant contributions to mobile application development, from enhancing user experiences on the YouTube iOS app at Google to developing key features for Progressive Insurance's Telematics Snapshot. At Amazon, I am at the forefront of shaping the future of last-mile delivery experiences, ensuring seamless and reliable service for millions of customers. Beyond the corporate sphere, I nurture my entrepreneurial spirit through a tech startup, a venture that represents my belief in the golden age of dual careers and the pursuit of side hustles.
 
 My story is not just about the apps I've developed or the projects I've led; it's about the journey, the people I've met along the way, and the lives we've touched together. It's a testament to the belief that with perseverance and passion, the possibilities are endless.
 
