@@ -8,23 +8,20 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](    https://medium.com/@amitsstory)
 
 
-Every morning begins with a simple ritual—a mug of black coffee, a reminder of the new possibilities each day holds. From the vibrant streets of Rajshahi to the peaceful shores of New York, my journey is a tale of dreams pursued and challenges overcome. My name is Amit Biswas, a tech enthusiast whose life is woven with codes and creativity. 
+Every morning starts with a ritual—black coffee and a fresh commit. From Rajshahi to New York, my path blends engineering discipline with a passion for secure, scalable tech.
 
-My professional journey has been marked by significant contributions to mobile application development, from enhancing user experiences on the YouTube iOS app at Google to developing key features for Progressive Insurance's Telematics Snapshot. At Amazon, I am at the forefront of shaping the future of last-mile delivery experiences, ensuring seamless and reliable service for millions of customers. Beyond the corporate sphere, I nurture my entrepreneurial spirit through a tech startup, a venture that represents my belief in the golden age of dual careers and the pursuit of side hustles.
+I'm Amit Biswas, a DevOps and iOS engineer focused on automation, platform security, and intuitive mobile experiences. Whether deploying secure AI workloads with Terraform and Kubernetes or building high-impact iOS features, I bridge infrastructure and user experience.
 
-My story is not just about the apps I've developed or the projects I've led; it's about the journey, the people I've met along the way, and the lives we've touched together. It's a testament to the belief that with perseverance and passion, the possibilities are endless.
+I’ve contributed to products like YouTube iOS (Google), telematics at Progressive, secure delivery infra at Amazon Flex, and AI-powered tools at GitHub Copilot. Outside work, I lead side projects and mentor emerging engineers.
 
-## 🔭 My Startups and Projetcs
-
-- [Inovetix](https://www.inovetix.com) Inovetix's reputation as a full-fledged app development company began to grow. The team, a blend of innovators, dreamers, and technologists, leveraged cutting-edge technologies like IoT, AI, and ML to turn ambitious ideas into reality. Websites, mobile apps, and specialized services began to take shape under their watchful eyes, each project a testament to their dedication and expertise.
-- [Volthub](https://play.google.com/store/apps/details?id=com.volthub.ai). AI-enabled Peer-to-Peer Charging network where users can find private and public charging stations responsively yet at the most optimized cost.
+This repo documents my work across DevSecOps, mobile, cloud, and AI. Let’s build.
 
 ## 🌱 The AWS Certified DevOps Engineer - Professional
 I have recently completed the AWS DevOps Professional certification, marking a significant milestone in my journey with AWS cloud technologies. This achievement has deepened my expertise in implementing and managing complex DevOps solutions on AWS, including continuous integration and delivery, infrastructure as code, and automated deployments. My tech stack now includes a robust set of tools such as AWS CloudFormation, AWS CodePipeline, AWS CodeBuild, and AWS Elastic Beanstalk, EC2, S3, Lamda, Amazon Lex, Glacier which I’m eager to leverage in developing scalable and efficient cloud-based solutions.
 
 ## 🌱 I’m currently learning
 
-- [Data Science](https://brainstation.io/new-york). I'm diving into the fascinating world of data science, embarking on a journey to master the art of data manipulation, analysis, and the effective use of Python's most powerful libraries. My toolkit is expanding with NumPy and Pandas, essentials for any aspiring data scientist. This stage is just the beginning, setting the groundwork for the advanced concepts I'll explore as I progress through the Data Science course. It's a journey towards building a robust foundation in data science, and I'm eager to unlock the potential that lies in data.
+- I'm currently focused on deepening my expertise in AI security, platform hardening, and infrastructure security. This includes learning how to secure LLM pipelines, implement robust model governance, and build threat-resistant cloud environments. I'm also diving into compliance frameworks like SOX, SOC 2, and PCI DSS, ensuring the systems I architect not only scale—but stay secure and audit-ready. This journey is sharpening my understanding of secure DevOps and the evolving field of responsible AI.
 
 ## ⚡ Fun facts
 
@@ -38,7 +35,7 @@ I have recently completed the AWS DevOps Professional certification, marking a s
 
 **A little bit more about me:**
 
-- 🔭  I devloped and contributed 20+ applications. 
+- 🔭  I devloped and contributed 30+ applications. 
 - 🌱  Passionate competitive programmer 
 - 📲  I’m looking to collaborate on startup project
 - 💬  Ask me about your next app/ website development needs 
